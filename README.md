@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=name-mun&show_icons=true">
 <!--
 **name-mun/name-mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
