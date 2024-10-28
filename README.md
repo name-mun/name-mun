@@ -20,7 +20,7 @@
 
 </div>
 <p></p>
-<img src="https://github-readme-stats.vercel.app/api?username=name-mun&show_icons=true">
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smge9153)](https://solved.ac/smge9153/)
 
