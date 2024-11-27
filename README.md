@@ -21,8 +21,6 @@
 </div>
 <p></p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smge9153)](https://solved.ac/smge9153/)
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/name-mun"
