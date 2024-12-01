@@ -22,11 +22,11 @@
 <p></p>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/name-mun"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/name-mun"
+  width="600"
+  height="300"
+/>
 </a>
   
 
