@@ -21,13 +21,13 @@
 </div>
 <p></p>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/name-mun"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/677148109495432891/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
 </a>
-  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fname-mun&count_bg=%23FFD400&title_bg=%23E9DFDF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
